@@ -1,0 +1,1 @@
+<small class="metaStuff"><span class="theTime"><?php the_time('M j, Y') ?></span> <span class="theComments"><?php comments_popup_link('No Comments &rsaquo;&rsaquo;', '1 Comment &rsaquo;&rsaquo;', '% Comments &rsaquo;&rsaquo;'); ?></span> <span class="theAuthor"><?php the_author(); ?></span></small>

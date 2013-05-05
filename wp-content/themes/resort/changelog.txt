@@ -1,0 +1,4 @@
+*** Resort Changelog ***
+	
+2013.04.16 - version 1.0.0
+ * First release!

@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<politico_option_tree>
+  <row>
+    <id>1</id>
+    <item_id>general_default</item_id>
+    <item_title>Logo &amp;amp; Colors</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>1</item_sort>
+  </row>
+  <row>
+    <id>4</id>
+    <item_id>logo</item_id>
+    <item_title>Logo</item_title>
+    <item_desc>Note: click &amp;quot;insert into post&amp;quot; in order to use image.</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>2</item_sort>
+  </row>
+  <row>
+    <id>30</id>
+    <item_id>banner_top</item_id>
+    <item_title>Banner Top Color</item_title>
+    <item_desc>Example: #25659D</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>3</item_sort>
+  </row>
+  <row>
+    <id>29</id>
+    <item_id>banner_bottom</item_id>
+    <item_title>Banner Bottom Color</item_title>
+    <item_desc>Example: #00427b</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>4</item_sort>
+  </row>
+  <row>
+    <id>3</id>
+    <item_id>link_color</item_id>
+    <item_title>Link Color</item_title>
+    <item_desc>Example: #12548c</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>5</item_sort>
+  </row>
+  <row>
+    <id>24</id>
+    <item_id>slider</item_id>
+    <item_title>Slider</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>6</item_sort>
+  </row>
+  <row>
+    <id>25</id>
+    <item_id>slider_type</item_id>
+    <item_title>Type of Slider</item_title>
+    <item_desc></item_desc>
+    <item_type>select</item_type>
+    <item_options>dual, nivo</item_options>
+    <item_sort>7</item_sort>
+  </row>
+  <row>
+    <id>27</id>
+    <item_id>category</item_id>
+    <item_title>Category</item_title>
+    <item_desc></item_desc>
+    <item_type>category</item_type>
+    <item_options></item_options>
+    <item_sort>8</item_sort>
+  </row>
+  <row>
+    <id>28</id>
+    <item_id>number</item_id>
+    <item_title>Number of items</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>9</item_sort>
+  </row>
+  <row>
+    <id>42</id>
+    <item_id>nivo_effect</item_id>
+    <item_title>Nivo Transition Effect</item_title>
+    <item_desc></item_desc>
+    <item_type>select</item_type>
+    <item_options>random,fade,fold,sliceUpDownLeft,sliceUpDown,sliceUpLeft,sliceUp,sliceDownLeft,sliceDown</item_options>
+    <item_sort>10</item_sort>
+  </row>
+  <row>
+    <id>12</id>
+    <item_id>social_buttons</item_id>
+    <item_title>Social Buttons</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>11</item_sort>
+  </row>
+  <row>
+    <id>13</id>
+    <item_id>twitter</item_id>
+    <item_title>Twitter URL</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>12</item_sort>
+  </row>
+  <row>
+    <id>14</id>
+    <item_id>facebook</item_id>
+    <item_title>Facebook URL</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>13</item_sort>
+  </row>
+  <row>
+    <id>15</id>
+    <item_id>flikr</item_id>
+    <item_title>Flikr URL</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>14</item_sort>
+  </row>
+  <row>
+    <id>16</id>
+    <item_id>myspace</item_id>
+    <item_title>MySpace URL</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>15</item_sort>
+  </row>
+  <row>
+    <id>17</id>
+    <item_id>linkedin</item_id>
+    <item_title>LinkedIn</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>16</item_sort>
+  </row>
+  <row>
+    <id>18</id>
+    <item_id>youtube</item_id>
+    <item_title>YouTube URL</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>17</item_sort>
+  </row>
+  <row>
+    <id>19</id>
+    <item_id>countdown</item_id>
+    <item_title>Countdown</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>18</item_sort>
+  </row>
+  <row>
+    <id>20</id>
+    <item_id>countdown_on_off</item_id>
+    <item_title>On/Off</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>On</item_options>
+    <item_sort>19</item_sort>
+  </row>
+  <row>
+    <id>21</id>
+    <item_id>countdown_text</item_id>
+    <item_title>Custom Text</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>20</item_sort>
+  </row>
+  <row>
+    <id>5</id>
+    <item_id>accent_color</item_id>
+    <item_title>Text Color</item_title>
+    <item_desc>Controls the color of the text specified above.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>21</item_sort>
+  </row>
+  <row>
+    <id>22</id>
+    <item_id>countdown_link</item_id>
+    <item_title>Link</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>22</item_sort>
+  </row>
+  <row>
+    <id>23</id>
+    <item_id>countdown_date</item_id>
+    <item_title>End Date</item_title>
+    <item_desc>Example: 12/22/2022 12:00 AM</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>23</item_sort>
+  </row>
+  <row>
+    <id>39</id>
+    <item_id>countdown_format</item_id>
+    <item_title>Display Format</item_title>
+    <item_desc>Example: %%D%% days : %%H%% hrs : %%M%% min : %%S%% sec</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>24</item_sort>
+  </row>
+  <row>
+    <id>40</id>
+    <item_id>countdown_active</item_id>
+    <item_title>Active Counting</item_title>
+    <item_desc></item_desc>
+    <item_type>radio</item_type>
+    <item_options>true,false</item_options>
+    <item_sort>25</item_sort>
+  </row>
+  <row>
+    <id>38</id>
+    <item_id>countdown_finish_text</item_id>
+    <item_title>Finish Message</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>26</item_sort>
+  </row>
+  <row>
+    <id>31</id>
+    <item_id>donate_button</item_id>
+    <item_title>Donate Button</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>27</item_sort>
+  </row>
+  <row>
+    <id>37</id>
+    <item_id>donate_on_off</item_id>
+    <item_title>On/Off</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>On</item_options>
+    <item_sort>28</item_sort>
+  </row>
+  <row>
+    <id>32</id>
+    <item_id>donate_link</item_id>
+    <item_title>Link URL</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>29</item_sort>
+  </row>
+  <row>
+    <id>41</id>
+    <item_id>donate_new_window</item_id>
+    <item_title>Open in new window?</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>Yes</item_options>
+    <item_sort>30</item_sort>
+  </row>
+  <row>
+    <id>33</id>
+    <item_id>donate_text</item_id>
+    <item_title>Text</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>31</item_sort>
+  </row>
+  <row>
+    <id>34</id>
+    <item_id>donate_text_color</item_id>
+    <item_title>Text Color</item_title>
+    <item_desc>Example: #ffffff</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>32</item_sort>
+  </row>
+  <row>
+    <id>35</id>
+    <item_id>donate_top_color</item_id>
+    <item_title>Button Top Color</item_title>
+    <item_desc>Example: #be5a45</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>33</item_sort>
+  </row>
+  <row>
+    <id>36</id>
+    <item_id>donate_bottom_color</item_id>
+    <item_title>Button Bottom Color</item_title>
+    <item_desc>Example: #a72306</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>34</item_sort>
+  </row>
+  <row>
+    <id>10</id>
+    <item_id>footer_widgets</item_id>
+    <item_title>Footer Widgets</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>35</item_sort>
+  </row>
+  <row>
+    <id>11</id>
+    <item_id>footer_on_off</item_id>
+    <item_title>On/Off</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>On</item_options>
+    <item_sort>36</item_sort>
+  </row>
+</politico_option_tree>
